@@ -45,7 +45,16 @@ Please ensure that your usage complies with the license and terms outlined in th
 
 ## Contribution
 
-We welcome contributions to this list. If you'd like to add or update a coin, please submit a pull request with the changes. Please ensure your data complies with the structure specified above.
+We warmly welcome contributions to this list. If you'd like to add or update a coin, please submit a pull request with the changes and ensure that your data adheres to the structure specified above.
+
+When suggesting a coin for addition, it should meet one or more of the following criteria:
+
+1. The coin has been listed on multiple renowned exchanges.
+2. The coin is an asset bridged from a well-known cross-chain bridge.
+
+Please note that these standards may change over time as the environment evolves, and coins that do not meet these criteria may still be considered on a case-by-case basis.
+
+Before submitting a pull request, please ensure that you have done thorough research and that all the provided information is accurate to the best of your knowledge. Inaccurate or misleading submissions could impact the integrity of the list. We appreciate your support in maintaining the highest standard for the Sui Blockchain Verified Coin List.
 
 ## License
 
