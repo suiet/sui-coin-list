@@ -18,7 +18,7 @@ Each coin is represented as a JSON object in the [`coins.json`](/src/coins.json)
   "project_url": "https://wormhole.com/",
   "source": "bridge",
   "wrapped": {
-    "bridger": "wormhole",
+    "bridge": "wormhole",
     "chain": "eth"
   }
 }
@@ -36,7 +36,7 @@ The fields of the JSON object are described as follows:
   - "native": The coin is a native token issued on the Sui Blockchain.
   - "bridge": The coin is a wrapped token bridged from another blockchain.
 - **wrapped:** An optional object that provides more details for wrapped coins:
-  - **bridger:** The service used to create the wrapped coin (e.g., "wormhole").
+  - **bridge:** The service used to create the wrapped coin (e.g., "wormhole").
   - **chain:** The original blockchain of the coin before being wrapped (e.g., "eth").
 
 ## Usage

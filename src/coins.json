@@ -18,7 +18,7 @@
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "polygon"
         }
     },
@@ -31,7 +31,7 @@
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "bnb"
         }
     },
@@ -44,7 +44,7 @@
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "eth"
         }
     },
@@ -57,7 +57,7 @@
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "eth"
         }
     },
@@ -66,11 +66,11 @@
         "symbol": "USDT",
         "coin_type": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
         "decimals": 6,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "eth"
         }
     },
@@ -79,11 +79,11 @@
         "symbol": "WBTC",
         "coin_type": "0x27792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "btc"
         }
     },
@@ -92,11 +92,11 @@
         "symbol": "WAVAX",
         "coin_type": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "avax"
         }
     },
@@ -105,11 +105,11 @@
         "symbol": "WFTM",
         "coin_type": "0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "ftm"
         }
     },
@@ -118,11 +118,11 @@
         "symbol": "CELO",
         "coin_type": "0xa198f3be41cda8c07b3bf3fee02263526e535d682499806979a111e88a5a8d0f::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "celo"
         }
     },
@@ -131,11 +131,11 @@
         "symbol": "WGLMR",
         "coin_type": "0x66f87084e49c38f76502d17f87d17f943f183bb94117561eb573e075fdc5ff75::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "moonbeam"
         }
     },
@@ -144,11 +144,11 @@
         "symbol": "WSOL",
         "coin_type": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "sol"
         }
     },
@@ -157,11 +157,11 @@
         "symbol": "USDCsol",
         "coin_type": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "sol"
         }
     },
@@ -170,11 +170,11 @@
         "symbol": "USDCbnb",
         "coin_type": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "bnb"
         }
     },
@@ -183,11 +183,11 @@
         "symbol": "USDCpol",
         "coin_type": "0xdb9ed08481f9dd565fd36b834eb3c2cda1ee5f388048154807cffcb0267ed3b2::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "polygon"
         }
     },
@@ -196,11 +196,11 @@
         "symbol": "USDCarb",
         "coin_type": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "arb"
         }
     },
@@ -209,11 +209,11 @@
         "symbol": "tBTC",
         "coin_type": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
         "decimals": 8,
-        "logo_url": "",
+        "icon_url": "",
         "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
-            "bridger": "wormhole",
+            "bridge": "wormhole",
             "chain": "btc"
         }
     },
@@ -255,6 +255,16 @@
         "decimals": 9,
         "icon_url": "https://bafkreia2vfy4zap6plymncr37eeywxbno6zzfcchnrvrlys3rgbimx5w5a.ipfs.nftstorage.link/",
         "project_url": "https://suia.io",
+        "source": "native"
+    },
+    {
+        "name": "SuiPad",
+        "description": "SuiPad The Premier Launchpad for Tier-1 Projects",
+        "symbol": "SUIP",
+        "coin_type": "0xe4239cd951f6c53d9c41e25270d80d31f925ad1655e5ba5b543843d4a66975ee::SUIP::SUIP",
+        "decimals": 9,
+        "icon_url": "",
+        "project_url": "https://suipad.xyz/",
         "source": "native"
     }
 ]
