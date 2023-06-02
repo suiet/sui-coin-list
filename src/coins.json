@@ -67,7 +67,7 @@
         "coin_type": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
         "decimals": 6,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -80,7 +80,7 @@
         "coin_type": "0x27792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -93,7 +93,7 @@
         "coin_type": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -106,7 +106,7 @@
         "coin_type": "0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -119,7 +119,7 @@
         "coin_type": "0xa198f3be41cda8c07b3bf3fee02263526e535d682499806979a111e88a5a8d0f::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -132,7 +132,7 @@
         "coin_type": "0x66f87084e49c38f76502d17f87d17f943f183bb94117561eb573e075fdc5ff75::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
@@ -145,7 +145,7 @@
         "coin_type": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
         "decimals": 8,
         "icon_url": "",
-        "project_url": "",
+        "project_url": "https://wormhole.com/",
         "source": "bridge",
         "wrapped": {
             "bridge": "wormhole",
