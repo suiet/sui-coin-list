@@ -45,6 +45,10 @@ To use the `coins.json` file in your project, clone the repo or directly downloa
 
 Please ensure that your usage complies with the license and terms outlined in this repository.
 
+## Notice
+
+Due to the inconsistency in the coin type of USDC bridged from different blockchains through the Wormhole bridge, we have modified the Symbol of USDC bridged from different chains to differentiate them (e.g., USDCsol, USDCarb). However, the Symbol of USDC bridged from Ethereum remains unchanged, which is USDC.
+
 ## Contribution
 
 We warmly welcome contributions to this list. If you'd like to add or update a coin, please submit a pull request with the changes and ensure that your data adheres to the structure specified above.
