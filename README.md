@@ -6,7 +6,7 @@ This repository, maintained by the Suiet Wallet team, provides a verified list o
 
 ## Data Structure
 
-Each coin is represented as a JSON object in the `coins.json` file, located in the `src` directory. The structure of each coin object is as follows:
+Each coin is represented as a JSON object in the [`coins.json`](/src/coins.json) file, located in the `src` directory. The structure of each coin object is as follows:
 
 ```json
 {
@@ -32,7 +32,9 @@ The fields of the JSON object are described as follows:
 - **decimals:** The number of decimal places used by the coin.
 - **icon_url:** The URL for the coin's icon. If there's no specific icon, this field is an empty string.
 - **project_url:** The URL for the official project or organization related to the coin.
-- **source:** The origin of the coin. For wrapped coins, this is typically "bridge".
+- **source:** The source of the coin, which can take one of two values:
+  - "native": The coin is a native token issued on the Sui Blockchain.
+  - "bridge": The coin is a wrapped token bridged from another blockchain.
 - **wrapped:** An optional object that provides more details for wrapped coins:
   - **bridger:** The service used to create the wrapped coin (e.g., "wormhole").
   - **chain:** The original blockchain of the coin before being wrapped (e.g., "eth").
